@@ -54,17 +54,6 @@ This repository contains code examples, notes, and practice exercises to learn *
 - [W3Schools CSS](https://www.w3schools.com/css/)
 - [W3Schools JavaScript](https://www.w3schools.com/js/)
 
-## 🚀 Practice Projects
-
-- Personal Portfolio Website
-- Calculator
-- Login Form
-- To-Do List Application
-- Responsive Landing Page
-
-## 🤝 Contributions
-
-Suggestions and improvements are always welcome!
 
 ## 📄 License
 
