@@ -47,6 +47,25 @@ This repository contains code examples, notes, and practice exercises to learn *
 - Visual Studio Code
 - Git & GitHub
 
+## 🚀 My Projects
+
+### 1. Personal Portfolio Website
+
+🔹 A personal portfolio website developed using **HTML, CSS, and JavaScript** to showcase my skills, projects, and personal information.
+
+🔗 [View Project on GitHub](https://github.com/JaniduSathsara/Personal-Janidu-Sathsara-)
+
+
+### 2. Calculator Web App
+
+🔹 A web-based calculator developed using **HTML, CSS, and JavaScript** to perform basic mathematical calculations.
+
+🔹 Features a simple, user-friendly interface with interactive buttons and real-time calculation functionality.
+
+🔗 [View Project on GitHub](https://github.com/JaniduSathsara/Calculator-web-App)
+
+---
+
 ## 📖 Learning Resources
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)

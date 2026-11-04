@@ -2,14 +2,14 @@
 
 // -------------- OBJECT ARRAYS IN JavaScript-------------------//
 
- let customer = {
-    name : "Janidu",
-    age : "20",
-    address : "Panadura",
-    contact : "0784512354",
-    salary : 750000
+let customer = {
+    name: "Janidu",
+    age: "20",
+    address: "Panadura",
+    contact: "0784512354",
+    salary: 750000
 }
- 
+
 //-------------------------------------------------------------//
 
 let customerList = [];
@@ -52,7 +52,7 @@ function AddButton() {
     for (let customers of customerList) {
         body += `  
         <tr>
-            <td>${customers.name}</td>
+            <td>${customers.name}</td> 
             <td>${customers.address}</td>
             <td>${customers.age}</td>
             <td>${customers.salary}</td>
@@ -127,15 +127,15 @@ let country = {
         players: [
             {
                 name: "saman",
-                age:"18"
+                age: "18"
             },
             {
                 name: "Kamal",
-                age:"20"
+                age: "20"
             },
             {
                 name: "kasun",
-                age:"22"
+                age: "22"
             }
 
         ]
@@ -150,4 +150,30 @@ console.log(country.sports.players[1].name); // accsess to arry using index
 console.log(country.sports.players[2].age); //accses to kasun's age
 
 //--------------------------------------------------------------------------------------//
+
+
+
+
+
+/* let student =  {
+    name:"Janidu",
+    age:20,
+    address:"Panadura",
+
+    teachers:{
+        name:"Mr. Perera",
+        age:50,
+        address:"Colombo",
+        
+        ages:[
+            25,
+            30,
+            35
+        ]
+    }
+
+
+}
+
+console.log(student.teachers.ages[2]); */
 
