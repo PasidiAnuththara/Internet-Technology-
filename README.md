@@ -64,6 +64,15 @@ This repository contains code examples, notes, and practice exercises to learn *
 
 🔗 [View Project on GitHub](https://github.com/JaniduSathsara/Calculator-web-App)
 
+
+### 3. Customer Management System
+
+🔹 A web-based Customer Management System using **HTML, CSS, and JavaScript** to perform basic mathematical calculations.
+
+🔹 Features a simple, user-friendly interface with interactive buttons and real-time display functionality.
+
+🔗 [View Project on GitHub](https://github.com/JaniduSathsara/new-Customer-management-System-)
+
 ---
 
 ## 📖 Learning Resources

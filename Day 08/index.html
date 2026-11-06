@@ -6,13 +6,53 @@
     <title>Document</title>
 </head>
 <body>
-
-    <input type="text" placeholder="name" id="txtName">
+    <!-- <input type="text" placeholder="name" id="txtName">
     <input type="button" value="click Me" onclick="clickMeButton()">
 
     <h1>Customer names</h1>
-    <ul id="lblCustomerNames"></ul>
-    
+    <ol id="lblCustomerNames"></ol>
+
+    <hr>
+    <h1>ITEMS</h1>
+
+    <input type="text" placeholder="Itemname" id="itemName">
+    <input type="button" value="click Me" onclick="ItemAddButton()">
+
+    <h6>item list</h6>
+
+    <ul id="lblitem">
+
+    </ul> -->
+    <hr> 
+
+    <h2>Customer Details</h2>
+    <input type="text" placeholder="ID" id="ID">&nbsp;&nbsp;
+    <input type="text" placeholder="Name" id="Name">&nbsp;&nbsp;
+    <input type="text" placeholder="Age" id="Age">&nbsp;&nbsp;
+    <input type="text" placeholder="Address" id="Address">&nbsp;&nbsp;
+    <input type="text" placeholder="Salary" id="Salary">&nbsp;&nbsp;
+    <input type="button" value="Add Customer" onclick="AddCustomer()">
+
+    <br><br>
+
+    <table border="1" width="100%" id="tblCus">
+        
+    </table>
+
+
+    <h2>Item Details</h2>
+    <input type="text" placeholder="ID" id="itemID">&nbsp;&nbsp;
+    <input type="text" placeholder="Name" id="itemName">&nbsp;&nbsp;
+    <input type="text" placeholder="Price" id="itemPrice">&nbsp;&nbsp;
+    <input type="text" placeholder="Quantity" id="itemQty">&nbsp;&nbsp;
+    <input type="button" value="Add Item" onclick="AddItem()">
+
+    <br><br>
+
+    <table border="1" width="100%" id="tblItem">
+        
+    </table>
+
     <script src="app.js"></script>
 </body>
 </html>
