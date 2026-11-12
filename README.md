@@ -49,29 +49,59 @@ This repository contains code examples, notes, and practice exercises to learn *
 
 ## 🚀 My Projects
 
-### 1. Personal Portfolio Website
+### 🌐 1. Personal Portfolio Website
 
-🔹 A personal portfolio website developed using **HTML, CSS, and JavaScript** to showcase my skills, projects, and personal information.
+A personal portfolio website developed using **HTML, CSS, and JavaScript** to showcase my skills, projects, and personal information.
 
 🔗 [View Project on GitHub](https://github.com/JaniduSathsara/Personal-Janidu-Sathsara-)
 
+### 🧮 2. Calculator Web App
 
-### 2. Calculator Web App
+A web-based calculator developed using **HTML, CSS, and JavaScript** to perform basic mathematical calculations.
 
-🔹 A web-based calculator developed using **HTML, CSS, and JavaScript** to perform basic mathematical calculations.
-
-🔹 Features a simple, user-friendly interface with interactive buttons and real-time calculation functionality.
+**Features:**
+- Perform basic mathematical operations.
+- Interactive buttons for user input.
+- Simple and user-friendly interface.
+- Real-time calculation functionality.
 
 🔗 [View Project on GitHub](https://github.com/JaniduSathsara/Calculator-web-App)
 
+### 👥 3. Customer Management System
 
-### 3. Customer Management System
+A web-based Customer Management System developed using **HTML, CSS, and JavaScript** to manage customer information efficiently.
 
-🔹 A web-based Customer Management System using **HTML, CSS, and JavaScript** to perform basic mathematical calculations.
-
-🔹 Features a simple, user-friendly interface with interactive buttons and real-time display functionality.
+**Features:**
+- Manage customer information.
+- Interactive user interface.
+- Display customer details dynamically.
+- Simple and user-friendly design.
 
 🔗 [View Project on GitHub](https://github.com/JaniduSathsara/new-Customer-management-System-)
+
+### 🎮 4. Number Guessing Game
+
+A simple number guessing game where the player has to guess a randomly generated number between **1 and 10**.
+
+**Features:**
+- Generates a random number between 1 and 10.
+- Allows users to enter their guesses.
+- Checks whether the guessed number is correct.
+- Provides feedback to help the player.
+
+🔗 [View Project on GitHub](https://github.com/JaniduSathsara/Number-Guessing-Game)
+
+### 📝 5. To-Do Application
+
+A simple To-Do application that helps users manage their daily tasks efficiently.
+
+**Features:**
+- Add new daily tasks.
+- Update existing tasks.
+- Delete completed or unwanted tasks.
+- Manage daily activities easily.
+
+🔗 [View Project on GitHub](https://github.com/JaniduSathsara/To-Do-Application)
 
 ---
 

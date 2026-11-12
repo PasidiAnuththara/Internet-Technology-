@@ -58,7 +58,7 @@ console.log(numbers);
 
 /* const numbers = [10, 20, 60, 70, 80, 30, 40, 50, 90, 100];
 
-function replaceNumber(){
+function replaceNumber() {
 
     let oldNum = Number(document.getElementById("oldNumber").value);
     let newNum = Number(document.getElementById("newNumber").value);
@@ -68,7 +68,7 @@ function replaceNumber(){
     numbers[index] = newNum;
 
     console.log(numbers);
-    
+
 } */
 
 //---------------------Methods----------------------
@@ -99,6 +99,87 @@ function replaceNumber(){
 
 //-------Step 05 >
 
-let getSum = num1 => num1;
+/* let getSum = num1 => num1;
 
-console.log(getSum(10,20));
+console.log(getSum(10, 20));  */
+
+
+//-----------------------Call back Funtion----------
+
+/* const nameList = ["saman","kasun","nimal"]
+
+nameList.forEach(cName=> console.log(cName)); */
+
+/* const empSalary = [75000,30000,25000,90000,150000]
+const newEmpSalary =[];
+
+console.log(empSalary);
+
+for(let salary of empSalary){
+    let newSalary = salary *2
+    newEmpSalary.push(newSalary) 
+}
+console.log(newEmpSalary); */
+
+
+//------------Array map ------------------
+
+/* const nameList = ["saman","kamal"];
+
+const newNameList =[];
+
+console.log(nameList.map(names => "Welcome "+ names)); */
+/* const newProductslist = [];
+const productList = [
+
+    {
+        id: 1,
+        name: "bun",
+        price: 350
+    },
+    {
+        id: 2,
+        name: "car",
+        price: 750
+    },
+    {
+        id: 3,
+        name: "Milk",
+        price: 820
+    },
+    {
+        id: 4,
+        name: "rice",
+        price: 1280
+    },
+
+]
+
+
+console.log(productList.map(product => product.price * 0.15));
+
+
+for (let products of productList) {
+    console.log(products);
+
+    let tax = products.price * 0.15;
+
+    let newPrice = tax + products.price
+
+    console.log(productList.price.newPrice);
+}
+ */
+
+////animations///
+
+function replaceNumber() {
+    Swal.fire({
+        title: "Good job!",
+        text: "You clicked the button!",
+        icon: "success"
+    });
+
+}
+
+
+
